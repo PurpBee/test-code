@@ -1,2 +1,3 @@
-# test-code
-my test code
+# hello world
+My first repository on GitHub
+i like :coffee:
